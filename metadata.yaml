@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '35590'
     url: http://www.gutenberg.org/2009/agents/35590
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31980#Rough-Translation
 gutenberg_issued: '2010-04-14'
 gutenberg_type: Text
 identifiers:
